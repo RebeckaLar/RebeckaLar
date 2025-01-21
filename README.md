@@ -6,4 +6,4 @@
 - 🤔 I’m looking for intership opportunities in autumn 2025
 - 📫 How to reach me: rebecka.rl.larsson@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Professionally, my favorite show is Black Mirror for its thought-provoking ways in adressing social issues and technology. My actual favorite show is Loke.
+- ⚡ Fun fact: Professionally, my favorite Black Mirror for its thought-provoking ways in adressing social issues and technology. On my free-time, it's Loke.
