@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align="left">Hi 👋! My name is Rebecka and I'm a student in front-end development in Stockholm</h2>
 
 - 🔭 I’m currently working on an online shop using Vite with React.
 - 🌱 I’m currently learning about JS frameworks and libraries.
@@ -7,8 +7,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rebecka-rl-larsson) | [Email](mailto:rebecka.rl.larsson@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I’ve cleared a Mario Kart WII track in 50 seconds
-
-<h2 align="left">Hi 👋! My name is Rebecka and I'm a student in front-end development in Stockholm</h2>
 
 ###
 
