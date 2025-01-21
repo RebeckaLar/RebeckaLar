@@ -6,4 +6,4 @@
 - 🤔 I’m looking for intership opportunities in autumn 2025
 - 📫 How to reach me: rebecka.rl.larsson@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Leisure time consists of archery, re-watching Loke for the 5th time and building digital, cozy cottages.
+- ⚡ Fun fact: I’ve cleared a Mario Kart WII track in 50 seconds
