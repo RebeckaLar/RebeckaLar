@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rebecka and I'm a student in front-end development in Stockholm</h2>
+<h2 align="left">Hi 👋! I'm Rebecka, a front-end development student in Stockholm</h2>
 
 - 🔭 I’m currently working on an online shop using Vite with React.
 - 🌱 I’m currently learning about JS frameworks and libraries.
