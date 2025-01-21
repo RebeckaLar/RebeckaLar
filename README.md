@@ -10,7 +10,8 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/7dn942"  />
+<img align="right" height="150" src="https://imgflip![CatStareFunnyGIF](https://github.com/user-attachments/assets/7ddfc9c2-5c59-47a1-84f5-0dbb9fabb4b3)
+.com/gif/7dn942"  />
 
 ###
 
