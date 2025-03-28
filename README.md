@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! I'm Rebecka, a front-end development student in Stockholm</h2>
+<h2 align="left">Hi 👋! I'm Rebecka, a front-end student in Stockholm with UX-background</h2>
 
 - 🔭 I’m currently working on an online shop using Vite with React.
-- 🌱 I’m currently learning about JS frameworks and libraries.
+- 🌱 I’m currently learning to handle databases and develop simple backend solutions
 - 👯 I’m looking to connect with others interested or working in development.
 - 🤔 I’m looking for intership opportunities in autumn 2025.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rebecka-rl-larsson) | [Email](mailto:rebecka.rl.larsson@gmail.com)
