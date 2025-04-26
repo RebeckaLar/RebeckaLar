@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Rebecka, a front-end student with UX-background</h2>
 
-- 🔭 I’m currently working on an online shop using Vite with React.
+- 🔭 I’m currently developing an event-page with Next.js and Headless CMS
 - 🌱 I’m currently learning to handle databases and develop simple backend solutions.
 - 👯 I’m looking to connect with others interested or working in development.
 - 🤔 I’m looking for intership opportunities in autumn 2025.
