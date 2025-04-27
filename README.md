@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Rebecka, a front-end student with a UX-Bachelor degree</h2>
+## Hi 👋! I'm Rebecka, a front-end student with a UX-Bachelor degree
 
 - 💻 I’m currently developing an event-page with Next.js and Headless CMS
 - 🌱 I’m currently learning to handle databases and develop simple backend solutions.
