@@ -1,11 +1,9 @@
-<h2 align="left">Hi 👋! I'm Rebecka, a front-end student with UX-background</h2>
+<h2 align="left">Hi 👋! I'm Rebecka, a front-end student with a UX-Bachelor degree</h2>
 
-- 🔭 I’m currently developing an event-page with Next.js and Headless CMS
+- 💻 I’m currently developing an event-page with Next.js and Headless CMS
 - 🌱 I’m currently learning to handle databases and develop simple backend solutions.
-- 👯 I’m looking to connect with others interested or working in development.
-- 🤔 I’m looking for intership opportunities in autumn 2025.
+- 💼 I’m looking for intership opportunities in november 2025.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rebecka-rl-larsson) | [Email](mailto:rebecka.rl.larsson@gmail.com)
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I’ve cleared a Mario Kart WII track in 50 seconds
 
 ###
@@ -37,4 +35,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
 </div>
+
+## Front-End Projects
+- 🧳 Tourist info centre (Next.js, Tailwind)
+- 🛒 eCommerce website (React + Vite)
+- 📝 To-do list (HTML, CSS with Bootstrap, JavaScript)
+- 📱 Mobile bank app design (Figma, HTML, CSS)
+
+## Back-End Projects
+- 🛒 eCommerce REST API (MongoDB, Express JS, Node.js)
+
+## UX-projects
+https://rebeckarllarsson.wixsite.com/portfolio
 
