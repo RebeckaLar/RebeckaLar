@@ -39,7 +39,7 @@
 ###
 
 ## Front-End Projects
-- ✨ Event page for live concerts in Stockholm (Next.js, Sanity)
+- ✨ Event page for live concerts in Stockholm (Next.js, Sanity, Tailwind)
 - 🧳 Tourist info centre (Next.js, Tailwind)
 - 🛒 eCommerce website (React + Vite)
 - 📝 To-do list (HTML, CSS with Bootstrap, JavaScript)
