@@ -1,7 +1,7 @@
 ## Hi 👋! I'm Rebecka, a front-end student with a UX-Bachelor degree
 
 - 💻 I’m currently developing an event-page with Next.js and Headless CMS
-- 🌱 I’m currently learning to handle databases and develop simple backend solutions.
+- 🌱 I’m currently learning to connect backend with frontend for a seamless user experience
 - 💼 I’m looking for intership opportunities in november 2025.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rebecka-rl-larsson) | [Email](mailto:rebecka.rl.larsson@gmail.com)
 - ⚡ Fun fact: I’ve cleared a Mario Kart WII track in 50 seconds
